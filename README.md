@@ -2,7 +2,7 @@
 - To be able to predict the future winner is always exciting. Here, we will try to predict the probability of a team winning the match based on their previous performances. 
 
 ##### About Data
-- From is obtained from 'Football-Data.org' API.
+- Data is obtained from 'Football-Data.org' API.
 - Link to data API : https://www.football-data.org/documentation/quickstart
 - Data regarding all the competitions is stored in all_competitions.csv
 - All the matches data collected from the API is stored in 3 different files(football_api_full.csv, football_api_full1.csv, football_api_full2.csv).
