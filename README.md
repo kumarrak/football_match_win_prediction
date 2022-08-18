@@ -1,7 +1,7 @@
 # Football - Match win predicition
 #### Data: 4/25/2022
 
-- To be able to predict the future winner is always exciting. Here, we will try to predict the probability of a team winning the match based on their previous performances. 
+- To be able to predict the future winner is always exciting. Here, we will try to predict the probability of a team winning the match based on their previous performances.   
 
 ##### About Data
 - Data is obtained from 'Football-Data.org' API.
